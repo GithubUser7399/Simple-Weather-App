@@ -2,9 +2,9 @@
 This weather app will tell the user about the weather in their choosen city.
 
 ### Info the app will tell
-*Tempature
-*Humidity
-*Weather Condition
+* Tempature
+* Humidity
+* Weather Condition
 
 ## Description
 
